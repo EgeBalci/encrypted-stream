@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"net"
 
-	stream "github.com/nknorg/encrypted-stream"
+	stream "github.com/EgeBalci/encrypted-stream"
 )
 
 func Example() {

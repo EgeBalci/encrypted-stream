@@ -1,4 +1,4 @@
-module github.com/nknorg/encrypted-stream
+module github.com/EgeBalci/encrypted-stream
 
 go 1.12
 
